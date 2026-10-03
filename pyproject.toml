@@ -1,0 +1,6 @@
+[project]
+name = "inferstack"
+version = "0.1.0"
+description = "Kubernetes-native LLM inference infrastructure experiments."
+requires-python = ">=3.12"
+dependencies = []
